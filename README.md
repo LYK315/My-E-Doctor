@@ -7,7 +7,6 @@
   3. Remind user on Appointments
   4. Emergency Button
   5. Patient Health Tracker
-
 - Tools Used:
   - Language: Java
   - IDE: Android Studio
