@@ -8,7 +8,7 @@
   4. Emergency Button
   5. Patient Health Tracker
 
-Tools Used:
+- Tools Used:
   - Language: Java
   - IDE: Android Studio
   - Cloud Database: Firebase
